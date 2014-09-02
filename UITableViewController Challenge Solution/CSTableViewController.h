@@ -1,5 +1,5 @@
 //
-//  CSViewController.h
+//  CSTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Laura Kirby on 9/1/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CSViewController : UIViewController
+@interface CSTableViewController : UITableViewController
 
 @end
